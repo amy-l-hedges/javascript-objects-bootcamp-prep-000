@@ -10,6 +10,6 @@ function updatePlaylist(playlist, artist, song) {
 }
 
 function removeFromPlaylist(playlist, artist) {
-  delete playlist.sharonVanEtten
+  delete playlist.artist
   return playlist
 }
