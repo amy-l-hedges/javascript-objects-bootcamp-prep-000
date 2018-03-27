@@ -1,5 +1,5 @@
 var playlist = {
   johnnyAndSanto: 'sleepwalk',
-  ManuelGarcia: 'tuVentana',
-  dinner: 'steak'
+  manuelGarcia: 'tuVentana',
+  sharonVanEtten: 'oneDay'
 }
