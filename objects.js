@@ -4,6 +4,6 @@ var playlist = {
   sharonVanEtten: 'oneDay'
 }
 
-function updatePlaylist(object, artist, song) {
-  
+function updatePlaylist(playlist, artist, song) {
+ playlist.artist = 'song'; 
 }
